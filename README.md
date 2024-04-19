@@ -21,5 +21,5 @@ $ python play.py
 
 # Example
 <video controls autoplay>
-  <source src="./assets/tiktaktoe.mp4" type="video/mp4">
+  <source src="https://github.com/Zaker237/tiktaktoe-update/blob/master/assets/tiktaktoe.mp4" type="video/mp4">
 </video>
